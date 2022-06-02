@@ -1,0 +1,31 @@
+body{
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#img_speed{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#img_volume{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.note{
+    font-size: 17px;
+    background-color: purple;
+}
+
+.heading{
+    font-size: 20px;
+}
+
